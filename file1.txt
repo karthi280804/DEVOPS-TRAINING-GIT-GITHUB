@@ -1,2 +1,3 @@
 This is my first text for devops.
-I am Karthiyayini P.
+I am Karthiyayini P from EEE department.
+I am part of the Devops training for 5 days.
